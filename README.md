@@ -1,4 +1,4 @@
-# 🌍 TravelEasy Booking API
+# 🌍 TravelEase Booking API
 
 ## ✈️ Overview
 **TravelEasy Booking API** is a robust backend solution designed for a full-featured booking and travel management platform, built using the MERN stack (MongoDB, Express.js, Node.js). This API enables service-based applications to manage user registrations, search for accommodations and travel packages, and facilitate bookings.
